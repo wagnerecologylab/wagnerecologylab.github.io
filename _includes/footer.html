@@ -3,6 +3,37 @@
         <p class="m-0 text-center text-white">Copyright &copy; Viktoria Wagner 2019</p>
       </div>
       <!-- /.container -->
+        
+    <section class="section-footer container grid-custom">
+    <div class="columns">
+      <div class="column col-12">
+        <p>
+          <a href="https://github.com/{{ site.github_username }}" id="github-btn" target="_blank">
+            <span class="fa-lg">
+              <i class="fa fa-github-alt"></i>
+            </span>
+            <span class="btn-text">
+              <span class="text-light">github /</span>
+              <strong>{{ site.github_username }}</strong>
+            </span>
+          </a>
+          <a href="https://twitter.com/{{ site.twitter_username }}" id="twitter-btn" target="_blank">
+            <span class="fa-lg">
+              <i class="fa fa-twitter"></i>
+            </span>
+            <span class="btn-text">
+              <span class="text-light">twitter /</span>
+              <strong>@{{ site.twitter_username }}</strong>
+            </span>
+          </a>
+        </p>
+        <p class="foot-note"><small>&copy; {{ site.author }} {{ site.time | date: '%Y' }}. Source code available <a href="{{ site.source_url }}">here</a>.</small></p>
+      </div>
+    </div>
+  </section>
+        
+        
+        
     </footer>
 
     <!-- Bootstrap core JavaScript -->
