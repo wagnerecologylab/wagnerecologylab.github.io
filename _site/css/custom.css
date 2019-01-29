@@ -1,0 +1,11 @@
+/*!
+ * Custom .css file to complement Start Bootstrap - Busines Frontpage template (https://startbootstrap.com/template-overviews/business-frontpage)
+ */
+
+
+.display-3{
+font-size:2.5rem;
+font-weight:300;
+line-height:2;
+overflow: hidden;
+}
