@@ -22,10 +22,9 @@ github_username:  wagnerecologylab
 source_url: "https://github.com/wagnerecologylab/wagnerecologylab.github.io"
 
 # Build settings
-markdown: kramdown
 theme: minima
-sass:
-compressed: true
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
