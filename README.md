@@ -17,7 +17,7 @@ The Ruby installation might be tricky on Mac, since MacOS uses its own Ruby. Ins
 ### Site maintenance
 
 ##### Add new lab members & publications
-For now, the website structure is minimal. New members and publications are added in the people.html and publications.htmlfiles, respectively. News are displayed on all subpages (except contact.html) and must be hence updated on all subpages. The welcome page content can be changed in the index.html.
+For now, the website structure is minimal. New members and publications are added in the people.html and publications.html files, respectively. News are displayed on all subpages (except contact.html) and must be hence updated on all subpages. The welcome page content can be changed in the index.html.
 
 ##### Site To Do list:
 1. Set up a news .yaml page (in _data) to be displayed automatically on all pages, rather than updating individual .html files
