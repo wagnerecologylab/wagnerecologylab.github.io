@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "WagnerEcologyLab"
 email: "viktoria.wagner@ualberta.ca"
-description: "WagnerEcologyLab@UAlberta"
+description: "Wagner Ecology Lab @ UAlberta"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wagnerecologylab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
