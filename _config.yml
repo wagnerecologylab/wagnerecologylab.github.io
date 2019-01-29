@@ -24,8 +24,7 @@ source_url: "https://github.com/wagnerecologylab/wagnerecologylab.github.io"
 
 # Build settings
 markdown: kramdown
-include: ["_pages"]
-         ["_includes"]
+
 theme: minima
 sass:
   compressed: true
