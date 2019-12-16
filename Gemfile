@@ -25,6 +25,8 @@ gem "html-proofer"
 gem "front_matter_parser"
 gem "jekyll-twitter-plugin"
 gem "jekyll-include-cache"
+gem "rubyzip", ">= 1.3.0"
+gem "nokogiri", ">= 1.10.4"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
