@@ -16,7 +16,7 @@ The Ruby installation might be tricky on Mac, since MacOS uses its own Ruby. Ins
 
 ### Site maintenance
 1. In terminal: navigate to folder "wagnerecologylab"
-2. In terminal: use "jekyll build" and then "jekyll serve"
+2. In terminal: use "jekyll build" and then "jekyll serve" (you might have to use "bundle exec jekyll build" and "bundle exec jekyll serve" if there are compatibilities issues with gems).
 3. Display homepage locally by using "http://localhost:4000" in web browser.
 4. Save the html file and inspect temporary website in local host
 5. When changes look good on local host, do the following:
