@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wagnerecologylab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viktoriawagner1
 github_username:  wagnerecologylab
+instagram_username: wagnerecologylab
 source_url: "https://github.com/wagnerecologylab/wagnerecologylab.github.io"
 
 # Build settings
