@@ -1,0 +1,16 @@
+current directory: /Users/viktoriawagner/Dropbox/U_Alberta/Homepage/GitHub/wagnerecologylab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.2_1/lib/ruby/3.0.0 -r ./siteconf20211016-71789-up5hav.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/viktoriawagner/Dropbox/U_Alberta/Homepage/GitHub/wagnerecologylab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/viktoriawagner/Dropbox/U_Alberta/Homepage/GitHub/wagnerecologylab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/viktoriawagner/Dropbox/U_Alberta/Homepage/GitHub/wagnerecologylab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20211016-71789-hatc0q/racc
